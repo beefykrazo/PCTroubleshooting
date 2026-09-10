@@ -34,4 +34,4 @@ Repository Layout
     ├── Collect-BlackScreen-Diagnostics.ps1
     └── Collect-System-Baseline.ps1
 
-The Markdown is intentionally simple so it can be published with GitHub Pages/Jekyll or read directly on GitHub.
+
